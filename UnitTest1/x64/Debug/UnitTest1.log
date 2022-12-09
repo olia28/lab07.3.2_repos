@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+D:\Student\lab07.3.rec\lab07.3.rec\lab07.3.rec.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Student\lab07.3.rec\lab07.3.rec\lab07.3.rec.cpp(152): warning C4715: 'FindSumAbsUnderDiagonalRec': not all control paths return a value
+  UnitTest1.vcxproj -> D:\Student\lab07.3.rec\x64\Debug\UnitTest1.dll
